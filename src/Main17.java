@@ -27,5 +27,6 @@ public class Main17 {
         int number4 = (number / 1 % 100) % 10;
         System.out.println(number2 + "; " + number3 + "; " + number4);
 
+
     }
 }
